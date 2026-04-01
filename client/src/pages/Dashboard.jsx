@@ -16,7 +16,7 @@ export default function Dashboard() {
 
         <div className="flex flex-col md:flex-row justify-between items-start md:items-end mb-10 gap-4 border-b border-slate-200 pb-6">
           <div>
-            <h1 className="text-3xl font-extrabold text-slate-900 mb-2">Welcome back, Mogi</h1>
+            <h1 className="text-3xl font-extrabold text-slate-900 mb-2">Welcome back</h1>
             <p className="text-slate-600 font-medium">Here's your mobility overview for today.</p>
           </div>
           <button className="bg-white border border-slate-200 text-slate-700 px-5 py-2.5 rounded-lg text-sm font-bold hover:border-sky-500 hover:text-sky-500 transition-colors flex items-center gap-2 shadow-sm">
